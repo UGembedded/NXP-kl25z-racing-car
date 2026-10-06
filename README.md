@@ -67,7 +67,9 @@ determines the steering position.
 - TPM1 — PWM generation
 - Pin multiplexing — connects physical pins to timer/peripheral functions
 
+## Photos:
 - <img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/864b03a5-d1a2-4d90-b4aa-d00908806cc2" />
 <img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/80801ea7-eb5a-4e5d-bce3-6a396d12803a" />
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/902a872d-6caa-4864-8ff4-e9537550e7b8" />
 
 
