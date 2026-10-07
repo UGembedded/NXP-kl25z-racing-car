@@ -67,9 +67,9 @@ determines the steering position.
 - TPM1 — PWM generation
 - Pin multiplexing — connects physical pins to timer/peripheral functions
 
-##
-Repository structure: 
+## Repository structure: 
 
+```text
 NXP-KL25Z-Racing-Car/
 ├── src/
 │   ├── main.c                 # Camera reading and line-following logic
@@ -81,7 +81,9 @@ NXP-KL25Z-Racing-Car/
 │   ├── steering.h             # Steering function declarations
 │   └── uart.h                 # UART function declarations
 ├── assets/
-│   ├── photos          # Photos of the assembled car
+│   ├── car-photo.jpg          # Photo of the assembled car
+
+```
 
 
 ## Photos:
