@@ -71,17 +71,14 @@ determines the steering position.
 
 ```text
 NXP-KL25Z-Racing-Car/
-├── src/
-│   ├── main.c                 # Camera reading and line-following logic
-│   ├── motor.c                # Motor PWM and H-bridge control
-│   ├── steering.c             # Steering servo configuration
-│   └── uart.c                 # Serial communication and debug output
-├── include/
-│   ├── motor.h                # Motor function declarations
-│   ├── steering.h             # Steering function declarations
-│   └── uart.h                 # UART function declarations
-├── assets/
-│   ├── car-photo.jpg          # Photo of the assembled car
+├── main.c
+├── motor.c
+├── motor.h
+├── steering.c
+├── steering.h
+├── uart.c
+├── uart.h
+└── README.md
 
 ```
 
